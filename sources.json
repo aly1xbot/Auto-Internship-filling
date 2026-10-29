@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Remotive remote jobs (24-hour delayed feed)",
+    "type": "remotive",
+    "board": "remote-jobs"
+  },
+  {
+    "name": "Jobicy USA remote engineering jobs (hourly cached, 7-day feed)",
+    "type": "jobicy",
+    "board": "remote-jobs"
+  },
+  {
+    "name": "Anduril",
+    "type": "greenhouse",
+    "board": "andurilindustries"
+  },
+  {
+    "name": "SpaceX",
+    "type": "greenhouse",
+    "board": "spacex"
+  },
+  {
+    "name": "Astranis",
+    "type": "greenhouse",
+    "board": "astranis"
+  },
+  {
+    "name": "Zipline",
+    "type": "greenhouse",
+    "board": "flyzipline"
+  },
+  {
+    "name": "Figure",
+    "type": "greenhouse",
+    "board": "figureai"
+  },
+  {
+    "name": "Skydio",
+    "type": "greenhouse",
+    "board": "skydio"
+  },
+  {
+    "name": "Waymo",
+    "type": "greenhouse",
+    "board": "waymo"
+  },
+  {
+    "name": "Applied Intuition",
+    "type": "ashby",
+    "board": "applied"
+  },
+  {
+    "name": "Databricks",
+    "type": "greenhouse",
+    "board": "databricks"
+  },
+  {
+    "name": "Cloudflare",
+    "type": "greenhouse",
+    "board": "cloudflare"
+  },
+  {
+    "name": "Roblox",
+    "type": "greenhouse",
+    "board": "roblox"
+  },
+  {
+    "name": "Samsara",
+    "type": "greenhouse",
+    "board": "samsara"
+  },
+  {
+    "name": "Verkada",
+    "type": "greenhouse",
+    "board": "verkada"
+  },
+  {
+    "name": "Tenstorrent",
+    "type": "greenhouse",
+    "board": "tenstorrent"
+  },
+  {
+    "name": "Rocket Lab",
+    "type": "greenhouse",
+    "board": "rocketlab"
+  },
+  {
+    "name": "Relativity Space",
+    "type": "greenhouse",
+    "board": "relativity"
+  },
+  {
+    "name": "Varda",
+    "type": "greenhouse",
+    "board": "vardaspace"
+  },
+  {
+    "name": "Zoox",
+    "type": "lever",
+    "board": "zoox"
+  },
+  {
+    "name": "Nuro",
+    "type": "greenhouse",
+    "board": "nuro"
+  },
+  {
+    "name": "Palantir",
+    "type": "lever",
+    "board": "palantir"
+  },
+  {
+    "name": "Waabi",
+    "type": "lever",
+    "board": "waabi"
+  },
+  {
+    "name": "CesiumAstro",
+    "type": "lever",
+    "board": "CesiumAstro"
+  }
+]
